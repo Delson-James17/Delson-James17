@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBkYm1sa21xN2l0OHo3dzIzdjducjV0M2RoMDRjOG5pYzFsYjhpdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp"  />
-</div>
 
 ###
 
@@ -8,6 +5,12 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Delson-James17.Delson-James17" />
 </div>
 
 ###
