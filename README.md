@@ -53,4 +53,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Delson-James17&show_icons=true&locale=en&layout=compact" alt="Delson-James17" /></p>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Delson-James17&show_icons=true&locale=en" alt="Delson-James17" /></p>
- 
+
+ ### 📈 Contribution Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delson-James17&theme=tokyonight" />
+</p>
